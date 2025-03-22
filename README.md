@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-HubX
 - 👀 I’m interested in Tech Support, Data Analysis, Coding
 - 🌱 I’m currently learning new skills in GitHub
-- 💞️ I’m looking to collaborate on different projects and open for collaboration
+- 💞️ I’m looking to create my own different projects and am open for collaboration
 - 📫 How to reach me: LinkedIn: **https://www.linkedin.com/in/alexandra-duca-3a1576139**
 
 <!---
